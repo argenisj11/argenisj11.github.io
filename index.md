@@ -1,5 +1,5 @@
 
-# **Reglas de Programación para el Proyecto SIMON FORM** *(Basado en Convenciones Microsoft)*  
+# **Reglas de Programación para el Proyecto SIMON FORM** 
 
 ---
 
